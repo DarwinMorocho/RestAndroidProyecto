@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">KonWarriorsApp</string>
+    <string name="app_name_secundario">¡El Portal del Metal Ecuatoriano!</string>
+    <string name="descripcion_app">Cuentan los indios muy viejos, que lo oyeron de sus antepasados, que el primer dios que hubo en la tierra fue llamado Kon (hoy lo llaman Diablo), él formó con su resuello todos los indios y los animales terrestres y aves celestes y muchos árboles y plantas.
+        Tiempo después, llegó a la tierra otro dios, llamado Pachacámac, hacedor del mundo o reformador, el cual destruyó todo lo que había hecho Kon.
+        Pero la voz ronca y poderosa del verdadero dios aún resuena en las gargantas y guitarras fulminates de sus subditos, quienes han perdido el miedo a los hijos del traidor Pachacámac, y envueltos entre mitos irracionales lanzan sus acordes y líricas
+        al viento invitando a los sumisos a levantar su voz de Libertad y ser parte del rito blasfemo de los malditos, ¡EL HEAVY METAL ECUATORIANO!
+    </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="tituloArtistas">Artistas</string>
+    <string name="tituloGeneros">Género</string>
+    <string name="tituloCanciones">Canciones</string>
+    <string name="tituloInfo">Crédito</string>
+    <string name="tituloBuscar">Buscar</string>
+
+    <string name="tituloCrearArtista">Crear Artista</string>
+    <string name="nombreArtista">Nombre Artista o Banda:</string>
+    <string name="géneroArtista">Género:</string>
+    <string name="canciones">Ingresar Canciones Representativas:</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="guardarArtista">Guardar Artista</string>
+
+    <string name="tituloCrearCancion">Crear Canción</string>
+    <string name="nombreCancion">Nombre Canción:</string>
+    <string name="album">Álbum:</string>
+    <string name="anio">Año:</string>
+    <string name="guardarCancion">Guardar Cancion</string>
+
+    <string name="carlos">Carlos Cargua</string>
+    <string name="darwin">Darwin Morocho</string>
+    <string name="jesus">Jesús Guerra</string>
+    <string name="ingeniero">Carlos Cevallos</string>
+    <string name="epn">Escuela Politécnica Nacional</string>
+    <string name="appMoviles">Aplicaciones Móviles</string>
+    <string name="paralelo">GR2</string>
+    <string name="periodo">2016</string>
+    <string name="desarrolladores">Desarrolladores:</string>
+    <string name="profesor">Profesor</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_artistas2">Artistas2</string>
+    <string name="title_activity_canciones2">Canciones</string>
+    <string name="title_activity_generos2">Genero</string>
+    <string name="nuevoArtista">Nuevo artista</string>
+
+    <string-array name="tipoGenero">
+        <item>Clasico</item>
+        <item>Heavy</item>
+        <item>Black</item>
+        <item>Death</item>
+    </string-array>
+    <string-array name="formatoCancion">
+        <item>wav</item>
+        <item>mp3</item>
+        <item>flv</item>
+    </string-array>
+</resources>

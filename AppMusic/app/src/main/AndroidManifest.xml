@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ec.com.appmusic">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Artistas" />
+        <activity android:name=".Buscar" />
+        <activity android:name=".Canciones" />
+        <activity android:name=".CrearNuevaCancion" />
+        <activity android:name=".CrearNuevoArtista" />
+        <activity android:name=".Generos" />
+        <activity android:name=".Informacion" />
+        <activity android:name=".Principal" />
+        <activity android:name=".ListaArtistas" />
+        <activity android:name=".ListaCanciones" />
+        <activity android:name=".MostrarFotografia"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KonWarriorsApp</string>
+    <string name="action_settings">工具</string>
+    <string name="album">专辑</string>
+    <string name="anio">年</string>
+    <string name="appMoviles"> 移动应用程序</string>
+    <string name="app_name_secundario">厄瓜多尔金属的门户网站！</string>
+    <string name="canciones">登录代表歌曲：</string>
+    <string name="carlos">Carlos Cargua</string>
+    <string name="ingeniero">Carlos Cevallos</string>
+    <string name="jesus">Jesús Guerra</string>
+    <string name="darwin">Darwin Morocho</string>
+    <string name="desarrolladores">开发商：</string>
+    <string name="descripcion">说明：</string>
+    <string name="descripcion_app">说明应用程序</string>
+    <string name="epn">全国中等专业学校</string>
+    <string name="guardarArtista">保存艺术家</string>
+    <string name="guardarCancion">保存歌曲</string>
+    <string name="géneroArtista">流派：</string>
+    <string name="navigation_drawer_close">关闭导览</string>
+    <string name="navigation_drawer_open">打开抽屉式导航栏</string>
+    <string name="nombreArtista">艺术家或乐队名称：</string>
+    <string name="nombreCancion">歌曲名称</string>
+    <string name="title_activity_generos2">流派</string>
+    <string name="tituloGeneros">流派</string>
+    <string name="tituloInfo">信用</string>
+    <string name="tituloCrearCancion">制作歌曲</string>
+    <string name="tituloCrearArtista">创建艺术家</string>
+    <string name="tituloCanciones">歌曲</string>
+    <string name="tituloBuscar">搜索</string>
+    <string name="tituloArtistas">艺术家</string>
+    <string name="title_activity_artistas2">艺术家</string>
+    <string name="profesor">教授</string>
+    <string name="title_activity_canciones2">歌曲</string>
+    <string name="periodo">2016年</string>
+    <string name="paralelo">GR2</string>
+    <string name="nuevoArtista">新人</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KonWarriorsApp</string>
+    <string name="action_settings">Herramientas</string>
+    <string name="album">Album</string>
+    <string name="anio">year</string>
+    <string name="appMoviles">APP movile</string>
+    <string name="app_name_secundario">Metal ecuatoriano</string>
+    <string name="canciones">Add song</string>
+    <string name="carlos">Carlos Cargua</string>
+    <string name="darwin">Darwin Morocho</string>
+    <string name="desarrolladores">Developer</string>
+    <string name="descripcion">Drecript</string>
+    <string name="descripcion_app">Descript app</string>
+    <string name="epn">epn</string>
+    <string name="guardarArtista">Save artist</string>
+    <string name="guardarCancion">save Song</string>
+    <string name="géneroArtista">Genero</string>
+    <string name="ingeniero">Ingenier</string>
+    <string name="jesus">Jesus</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="nombreArtista">Name artista</string>
+    <string name="nombreCancion">Name song</string>
+    <string name="nuevoArtista">New Astist</string>
+    <string name="paralelo">Gr2</string>
+    <string name="periodo">2016</string>
+    <string name="profesor">Teacher</string>
+    <string name="title_activity_artistas2">Artisrt</string>
+    <string name="title_activity_canciones2">Song</string>
+    <string name="title_activity_generos2">Genero</string>
+    <string name="tituloArtistas">Artist</string>
+    <string name="tituloBuscar">Search</string>
+    <string name="tituloCanciones">Song</string>
+    <string name="tituloCrearArtista">Create artist</string>
+    <string name="tituloCrearCancion">Create song</string>
+    <string name="tituloGeneros">Genero</string>
+    <string name="tituloInfo">Credit</string>
+</resources>
